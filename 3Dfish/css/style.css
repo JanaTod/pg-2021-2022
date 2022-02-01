@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+}
+
+.slidecontainer {
+    width: 100%;
+}
+
+/*#options{*/
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*    background-image: url(../texture/homePage.jpg);*/
+/*    position: absolute;*/
+/*    background-repeat: no-repeat;*/
+/*    background-size: cover;*/
+/*}*/
+canvas {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+}
+.dg .cr.function{
+    border-left: 3px;
+    height: 40px;
+}
+.slider {
+    -webkit-appearance: none;
+    width: 800px;
+    height: 30px;
+    background: #d3d3d3;
+    outline: none;
+    opacity: 0.7;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider:hover {
+    opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+    width: 25px;
+    height: 25px;
+    background: #4CAF50;
+    cursor: pointer;
+}
+
+.button {
+    background-color: #9F2B68;
+    border: none;
+    color: white;
+    padding: 15px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 5%;
+    cursor: pointer;
+}
+
+.dg .cr.function {
+    border-left: 3px solid #e61d5f;
+    font-size: 16px;
+}
+
+
+/*span.property-name{*/
+/*    color: red;*/
+/*}*/
+/*.button2 {background-color: #008CBA;} !* Blue *!*/
+/*.button3 {background-color: #f44336;} !* Red *!*/
+/*.button4 {background-color: #e7e7e7; color: black;} !* Gray *!*/
+/*.button5 {background-color: #555555;} !* Black *!*/
+
+#gui {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+

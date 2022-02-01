@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d14b0ae8-39da-4fcc-9613-e837332c3fe6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="2062YWiHQ4hbXC8xt6zLFT0jlyB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\4.ZS\PG\3D Fish\model" />
+      <recent name="D:\4.ZS\PG\3D Fish\fish_obj\Fissh" />
+      <recent name="D:\4.ZS\PG\3D Fish\texture" />
+      <recent name="D:\4.ZS\PG\3D Fish\js" />
+      <recent name="D:\4.ZS\PG\3D Fish\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\4.ZS\PG\3D Fish\model" />
+      <recent name="D:\4.ZS\PG\3D Fish\js" />
+      <recent name="D:\4.ZS\PG\3D Fish\js\CCapture\worker" />
+      <recent name="D:\4.ZS\PG\3D Fish\fish_obj" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d14b0ae8-39da-4fcc-9613-e837332c3fe6" name="Default Changelist" comment="" />
+      <created>1635350764971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635350764971</updated>
+      <workItem from="1635350767481" duration="1049000" />
+      <workItem from="1635419612489" duration="601000" />
+      <workItem from="1635487977966" duration="30877000" />
+      <workItem from="1635834090693" duration="2748000" />
+      <workItem from="1636218768632" duration="9429000" />
+      <workItem from="1636356829487" duration="17705000" />
+      <workItem from="1636466203484" duration="3023000" />
+      <workItem from="1636477552972" duration="5730000" />
+      <workItem from="1636569045277" duration="1605000" />
+      <workItem from="1637676200313" duration="28000" />
+      <workItem from="1638100301869" duration="1529000" />
+      <workItem from="1638371026327" duration="4172000" />
+      <workItem from="1638431259720" duration="348000" />
+      <workItem from="1638432586374" duration="8631000" />
+      <workItem from="1638462948954" duration="2435000" />
+      <workItem from="1638466014103" duration="1950000" />
+      <workItem from="1638514785155" duration="135000" />
+      <workItem from="1638550500380" duration="956000" />
+      <workItem from="1638621115908" duration="35000" />
+      <workItem from="1638623858430" duration="3530000" />
+      <workItem from="1638718565892" duration="8478000" />
+      <workItem from="1638769680039" duration="3020000" />
+      <workItem from="1638781210897" duration="859000" />
+      <workItem from="1638783959040" duration="654000" />
+      <workItem from="1638798032484" duration="1000" />
+      <workItem from="1638798074439" duration="1264000" />
+      <workItem from="1638814197663" duration="6802000" />
+      <workItem from="1639059771567" duration="4602000" />
+      <workItem from="1639066819076" duration="4665000" />
+      <workItem from="1639078297373" duration="5836000" />
+      <workItem from="1639163816999" duration="5454000" />
+      <workItem from="1639174303740" duration="321000" />
+      <workItem from="1639255359376" duration="3000000" />
+      <workItem from="1639429416093" duration="346000" />
+      <workItem from="1639825048951" duration="23811000" />
+      <workItem from="1639938264808" duration="2032000" />
+      <workItem from="1639986734932" duration="3153000" />
+      <workItem from="1641237789687" duration="29000" />
+      <workItem from="1642098564247" duration="1447000" />
+      <workItem from="1642271808022" duration="679000" />
+      <workItem from="1642272683581" duration="1495000" />
+      <workItem from="1642320126818" duration="10462000" />
+      <workItem from="1642334511727" duration="2302000" />
+      <workItem from="1642342039341" duration="9598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2644" y="-243" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1639079331560">
+      <screen x="1920" y="-566" width="1920" height="1040" />
+    </state>
+    <state x="2644" y="-243" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-566.1920.1040@1920.-566.1920.1040" timestamp="1639079331560" />
+    <state x="560" y="137" width="774" height="847" key="DiffContextDialog" timestamp="1635802144685">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="137" width="774" height="847" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1635802144685" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1639986852788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="-291" key="FileChooserDialogImpl/0.0.1920.1040/1920.-566.1920.1040@1920.-566.1920.1040" timestamp="1635490554755" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1639986852788" />
+    <state x="469" y="222" key="SettingsEditor" timestamp="1639828926368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="469" y="222" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1639828926368" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1638770549276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638770549276" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1639170601610">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.-566.1920.1040@0.0.1920.1040" timestamp="1639170601610" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1638551138565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1638551138565" />
+  </component>
+</project>
